@@ -9,52 +9,18 @@ body {
 }
 
 
-
-.navbar {
-
-    margin-bottom: 20px;
-
-}
-
-
-
-.jumbotron {
-
-    background: #007bff;
-
-    color: white;
-
-    padding: 50px 25px;
-
-}
-
-
-
-.jumbotron h1 {
-
-    font-size: 3.5rem;
-
-    font-weight: bold;
-
-}
-
-
-
-.jumbotron .btn-primary {
-
-    background-color: #0056b3;
-
-    border-color: #004085;
-
-}
-
-
-
 footer {
-
+    position: absolute;
+    display: flex;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
     background: #f8f9fa;
-
+    text-align: center;
+    width: 100%;
+    justify-content: center;
 }
-
 
   
